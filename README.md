@@ -2,12 +2,9 @@
 
 ## Introduction
 
-A **Pull Request (PR)** is a GitHub feature that allows developers to propose changes to a repository. It enables team members to review, discuss, and approve code before it is merged into the main branch.
-
-A Pull Request helps maintain code quality by providing a structured review process and encouraging collaboration among developers
+A **Pull Request (PR)** is a GitHub feature that allows developers to propose changes to a repository. It enables team members to review, discuss, and approve code before it is merged into the main branch
 
 ---
-
 ## What is a Pull Request?
 
 A Pull Request is a request to merge changes from one branch into another branch.
@@ -18,8 +15,6 @@ For example:
 feature/login-page → main
 ```
 
-This means the changes made in the `feature/login-page` branch are being requested to merge into the `main` branch.
-
 ---
 
 ## Why Pull Requests Are Important
@@ -27,13 +22,11 @@ This means the changes made in the `feature/login-page` branch are being request
 Pull Requests provide several benefits:
 
 - Code review before merging
-- Better collaboration among team members
 - Discussion and feedback on code changes
 - Automated testing and validation
 - Improved code quality
 - Better project management
 - Reduced risk of bugs in production
-
 ---
 
 ## Pull Request Workflow
@@ -45,7 +38,6 @@ Create a separate branch for your feature or bug fix.
 ```bash
 git checkout -b feature/new-feature
 ```
-
 ---
 
 ### Step 2: Make Changes
@@ -70,7 +62,7 @@ Create a commit with a meaningful message.
 
 ```bash
 git commit -m "Add new feature"
-```
+
 
 ---
 
@@ -94,7 +86,6 @@ git push origin feature/new-feature
    - Compare Branch: `feature/new-feature`
 5. Add a title and description.
 6. Click **Create Pull Request**.
-
 ---
 
 ### Step 7: Code Review
@@ -189,7 +180,6 @@ This PR adds user authentication functionality including:
 - Login page
 - Password validation
 - Session management
-- Logout functionality
 
 Testing:
 - Login tested successfully
