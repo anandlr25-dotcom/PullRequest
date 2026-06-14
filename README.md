@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A **Pull Request (PR)** is a GitHub feature that allows developers to propose changes to a repository. It enables team members to review, discuss, and approve code before it is merged into the main branch.
+A **Pull Request (PR)** is a GitHub feature that allows developers to propose changes to a repository. It enables team members to review, discuss, and approve code before it is merged into the main branch
 
 A Pull Request helps maintain code quality by providing a structured review process and encouraging collaboration among developers.
 ---
@@ -23,7 +23,6 @@ feature/login-page → main
 Pull Requests provide several benefits:
 
 - Code review before merging
-- Better collaboration among team members
 - Discussion and feedback on code changes
 - Automated testing and validation
 - Improved code quality
