@@ -195,6 +195,7 @@ Testing:
 - Login tested successfully
 - Logout tested successfully
 - Invalid credentials handled properly
+- Currrent update
 ```
 
 ---
